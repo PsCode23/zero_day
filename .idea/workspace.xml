@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="929e6c4e-d42f-46bb-ae84-d42f26507f24" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="929e6c4e-d42f-46bb-ae84-d42f26507f24" name="Changes" comment="My first commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +60,26 @@
       <option name="presentableId" value="Default" />
       <updated>1678096050679</updated>
     </task>
+    <task id="LOCAL-00001" summary="My first commit">
+      <created>1678096818517</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678096818517</updated>
+    </task>
+    <task id="LOCAL-00002" summary="My first commit">
+      <created>1678096911604</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678096911604</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="My first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="My first commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
